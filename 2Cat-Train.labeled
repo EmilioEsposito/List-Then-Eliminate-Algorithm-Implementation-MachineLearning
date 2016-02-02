@@ -1,0 +1,11 @@
+Student? No	PreviouslyDeclined? Yes	Risk low
+Student? Yes	PreviouslyDeclined? No	Risk low
+Student? No	PreviouslyDeclined? No	Risk low
+Student? Yes	PreviouslyDeclined? No	Risk low
+Student? Yes	PreviouslyDeclined? Yes	Risk high
+Student? No	PreviouslyDeclined? Yes	Risk low
+Student? Yes	PreviouslyDeclined? No	Risk low
+Student? Yes	PreviouslyDeclined? Yes	Risk low
+Student? No	PreviouslyDeclined? Yes	Risk high
+Student? Yes	PreviouslyDeclined? No	Risk low
+Student? Yes	PreviouslyDeclined? Yes	Risk high
